@@ -62,6 +62,20 @@ validateEmail(email) {
 - Show detail view of a task 
 - Make it possible to edit tasks 
 
+### Todo list for part 5
+- Add status to the tasks
+- Show the status together with the task title 
+- Fix typo in class name in the task list  
+- Show number of tasks in the project list 
+- Create a new model for entries 
+- Make it possible to register enteies on a task
+- Fix the registered time functions for project and task
+- Show entries on a task 
+- Show total time in the task list 
+- Make it possible to edit an entry 
+- Make it possible to delete an entry 
+- Import font awesome and add icons 
+
 Credit goes to [Code With Stein](https://www.youtube.com/watch?v=Sdbh1uHwcrw&list=PLpyspNLjzwBkm7Y28Gma4F9hl2wpuypgp&index=2).
 
 Thanks
